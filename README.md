@@ -1,4 +1,4 @@
-Random codeing/scripting snippets'n'things for learning new stuffs
+Random coding/scripting snippets'n'things for learning new stuffs
 
 # License
 
